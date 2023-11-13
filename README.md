@@ -1,6 +1,5 @@
 # BD - Steam Library Database
-
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+`A Steam library Data Base in SQLite`
 
 > **Course:** Bases de Dados ([BD](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484405)) | Databases @[FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial)
 > >
